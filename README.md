@@ -45,6 +45,9 @@
 
 ## Link Record
 You can watch the recording of the test at the following links:
-- **Run Mode Video**: [(https://drive.google.com/file/d/1Tfn7oIueieo4bKTd5yB93YlmRAqakjUn/view?usp=sharing)]
-- **Open Mode Video**: [(https://drive.google.com/file/d/1oJY6lNM_ciqqG2njKhg-AExKKDvpUO99/view?usp=sharing)]
+- [Run Mode Video](https://drive.google.com/file/d/1Tfn7oIueieo4bKTd5yB93YlmRAqakjUn/view?usp=sharing)
+- [Open Mode Video](https://drive.google.com/file/d/1oJY6lNM_ciqqG2njKhg-AExKKDvpUO99/view?usp=sharing)
 
+## Link Document
+You can review the documentation of the test at the following links:
+- [Test Scenario & Test Case Document](https://docs.google.com/spreadsheets/d/1MUxWIjtZQThHMmRxSKLCkbwYtxYqBQAUMhcIjIB7Acg/edit?usp=sharing)
